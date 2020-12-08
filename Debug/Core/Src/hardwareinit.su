@@ -1,0 +1,5 @@
+hardwareinit.c:7:6:SystemClock_Config	88	static
+hardwareinit.c:51:6:MX_I2C1_Init	8	static
+hardwareinit.c:69:6:MX_TIM2_Init	40	static
+hardwareinit.c:101:6:MX_GPIO_Init	48	static
+hardwareinit.c:157:6:Error_Handler	4	static,ignoring_inline_asm

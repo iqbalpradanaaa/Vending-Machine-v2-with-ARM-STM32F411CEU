@@ -1,0 +1,6 @@
+task.c:38:15:B500	16	static
+task.c:58:15:B1000	16	static
+task.c:77:15:Proses	16	static
+task.c:96:15:Batal	16	static
+task.c:115:6:Task_Init	4	static
+task.c:120:6:Task_Run	8	static
